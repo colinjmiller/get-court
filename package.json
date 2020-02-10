@@ -1,0 +1,20 @@
+{
+  "name": "get-court",
+  "version": "1.0.0",
+  "description": "A tool to register a racquetball court with the downtown YMCA",
+  "main": "register.js",
+  "dependencies": {
+    "puppeteer": "^2.1.1",
+    "yargs": "^15.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "get-court"
+  },
+  "author": "Colin Miller",
+  "license": "ISC"
+}
